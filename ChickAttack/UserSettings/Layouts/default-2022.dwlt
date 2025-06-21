@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 109
+  controlID: 90
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -334,8 +334,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 75
-  m_LastProjectPath: "C:\\Users\\nhkwo\\OneDrive - \uC774\uD654\uC5EC\uC790\uB300\uD559\uAD50\\\uBB38\uC11C\\GitHub\\Unity-Beginner-Exercise\\My
-    project"
+  m_LastProjectPath: "C:\\Users\\nhkwo\\OneDrive - \uC774\uD654\uC5EC\uC790\uB300\uD559\uAD50\\\uBB38\uC11C\\GitHub\\Unity-Beginner-Exercise\\ChickAttack"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -397,7 +396,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000046670000346100006861000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -512,7 +511,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: aee8fffff2e8ffff62eaffff1afbffff
+      m_ExpandedIDs: 1afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
